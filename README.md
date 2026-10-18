@@ -1,6 +1,6 @@
 # Webhook Relay
 
-[![CI](https://github.com/Agenda-X/webhook-relay/actions/workflows/ci.yml/badge.svg)](https://github.com/Agenda-X/webhook-relay/actions/workflows/ci.yml)
+[![CI](https://github.com/Agenda-X-PR/webhook-relay/actions/workflows/ci.yml/badge.svg)](https://github.com/Agenda-X-PR/webhook-relay/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 
@@ -66,7 +66,7 @@ Provider (ALATPay, etc.)
 ## Installation
 
 ```bash
-git clone https://github.com/Agenda-X/webhook-relay.git
+git clone https://github.com/Agenda-X-PR/webhook-relay.git
 cd webhook-relay
 
 # Create and activate a virtual environment
